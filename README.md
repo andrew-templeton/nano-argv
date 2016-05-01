@@ -6,8 +6,8 @@
 A small module to do simple argument parsing.
 
 This package on:
-- [GitHub](https://github.com/andrew-templeton/node-argv)
-- [NPM](https://github.com/package/node-argv)
+- [GitHub](https://github.com/andrew-templeton/nano-argv)
+- [NPM](https://github.com/package/nano-argv)
 
 
 ### Usage
