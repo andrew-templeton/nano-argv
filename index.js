@@ -13,5 +13,5 @@ module.exports = function(defaults) {
 
     return hash;
 
-  }, defaults || {});
+  }, JSON.parse(JSON.stringify(defaults || {})));
 };
