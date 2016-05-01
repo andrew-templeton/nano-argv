@@ -1,6 +1,6 @@
 {
   "name": "nano-argv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Super light-weight --argument value parser, with --bool key support",
   "main": "index.js",
   "scripts": {
